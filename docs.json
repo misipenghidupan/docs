@@ -66,6 +66,41 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Blogs",
+        "groups": [
+          {
+            "group": "commons",
+            "pages": [
+              "contents/blogs/blog-one",
+              "contents/blogs/blog-two"
+            ]
+          },
+          {
+            "group": "events",
+            "pages": [
+              "Knowledgemanagement-Wikipedia"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "docs",
+        "groups": [
+          {  
+          "group": "commons",
+          "pages": [
+            "contents/docs/doc-one"
+          ]
+          },
+          {  
+          "group": "events",
+          "pages": [
+            "contents/docs/doc-two"
+          ]
+          }
+        ]
       }
     ],
     "global": {
